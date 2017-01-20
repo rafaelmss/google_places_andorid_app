@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Geolocation with Google Places</string>
+    <string name="main_button_get_location">Buscar Localização</string>
+    <string name="no_location_permition">Permitir que o app acesse sua localização</string>
+
+    <!-- TODO(user): replace with your real server client ID -->
+    <!-- Server Client ID.  This should be a valid Web OAuth 2.0 Client ID obtained
+         from https://console.developers.google.com/ -->
+    <string name="server_client_id">1091790594403-ro2t9lj700g1lg38lns72rpbpg4e39m3.apps.googleusercontent.com</string>
+    <string name="api_key">AIzaSyAu2d1HEze9snWuQmoeByNXAcnse8tFRBY</string>
+
+</resources>
