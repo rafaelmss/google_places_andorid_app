@@ -6,7 +6,7 @@
     <!-- TODO(user): replace with your real server client ID -->
     <!-- Server Client ID.  This should be a valid Web OAuth 2.0 Client ID obtained
          from https://console.developers.google.com/ -->
-    <string name="server_client_id">PUT GOOGLE DEVELOPER CLIENT ID HERE</string>
-    <string name="api_key">PUT GOOGLE API KEY HERE</string>
+    <string name="server_client_id">YOUR SERVER CLIENT ID</string>
+    <string name="api_key">YOUR API KEY</string>
 
 </resources>

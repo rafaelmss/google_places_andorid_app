@@ -1,7 +1,9 @@
 package google.places.bases.com.geolocationwithgoogleplaces.model;
 
 /**
- * Created by rafael on 20/01/17.
+ * Created by Rafael mont'Alvão Seixas de Siqueira
+ * email: rms.siqueira@gmail.com
+ * .
  */
 
 public class MyLocation {
